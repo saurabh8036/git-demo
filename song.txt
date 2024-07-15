@@ -2,9 +2,12 @@ Oh, love of mine
 With a song and a wine
 You're harsh and divine
 Like truths and a lie
+<<<<<<< HEAD
 
 But the tale ends not here
 I have nothing to fear
 For my love is yell of giving and hold on
 
 Let's see how to undo a commit once done and pushed to remote repo.
+=======
+>>>>>>> parent of 463125b (three more new lines hsave been added)
